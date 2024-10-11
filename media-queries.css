@@ -25,13 +25,14 @@
     .content{
         padding: 10px;
         margin-top: 20px;
-        height: 40vh;
+        height: 45vh;
     }
 
     .details{
         display: flex;
     flex-direction: column; /* Align items in a single column (stack vertically in rows) */
     gap: 10px; 
+    padding-top: 20px;
     }
 
     .Email{
@@ -132,5 +133,13 @@
     .sec{
         width: 200px;
         /* align-self: self-start; */
+    }
+    .trending{
+        color: white;
+        /* padding: 10px; */
+        padding-left: 55px;
+        padding-top: 15px;
+        padding-bottom: 7px;
+        /* text-align:center; */
     }
 }

@@ -383,6 +383,15 @@ p a {
     margin-left: 130px;
 }
 
+.fn{
+    margin: 15px;
+    margin-top: 0;
+    padding-left: 170px;
+    font-size: 25px;
+    color: white;
+    padding-top: 20px;
+}
+
 
 /* Mobile version */
 
